@@ -8,8 +8,8 @@ For everyone who wants a HTML-Page with "Hello World"
 
 ## Build
 ### Browser
-Download the repository and simply open 'index.html' with your preferred browser. Make sure `index.js` stays in the same folder as `index.html`.
+Download the repository and simply open `index.html` with your preferred browser. Make sure `index.js` stays in the same folder as `index.html`.
 
 ### VS Code
 For the best results install the [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
-Then open the repository in VS Code, double click on "index.html" and on the bottom side on 'Go Live'.
+Then open the repository in VS Code, double click on `index.html` and on the bottom side on 'Go Live'.
